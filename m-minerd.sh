@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./m-minerd -a m7m -o stratum+tcp://m7m.sea.mine.zpool.ca -u MAEMuVLuQabXnzZbcmsiY1UEdZ1WFVJLGZ -p c=LTC -e 30
+./m-minerd -a sha256 -o stratum+tcp://sha256.mine.zergpool.com:3333 -u DN54hE4GVCyQ68jEvHMF1UBykdFBowcKCC -p c=DOGE -e 30
